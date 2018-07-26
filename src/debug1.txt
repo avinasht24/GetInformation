@@ -1,0 +1,6 @@
+Source is : 172.18.1.14
+keys avipnv6
+command run is: redis-cli -h 172.18.1.14 keys *avipnv6* | grep userToken 
+com.gdn.x:otp:V1-userToken-10001-avipnv6@gmail.com-pnv
+redis-cli -h 172.18.1.14 get com.gdn.x:otp:V1-userToken-10001-avipnv6@gmail.com-pnv
+CAAA-08168291012

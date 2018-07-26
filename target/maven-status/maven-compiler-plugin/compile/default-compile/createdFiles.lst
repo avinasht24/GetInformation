@@ -1,0 +1,9 @@
+com/gdn/database/GetDatabaseDetails.class
+com/gdn/database/BotConfiguration.class
+com/gdn/qabot/model/GetPnv.class
+com/gdn/database/GetBotInformation.class
+com/gdn/qabot/model/QaBotModel.class
+com/gdn/qabot/model/QaBotBugCreationModel.class
+com/gdn/qabot/controller/QaBotController.class
+com/gdn/qabot/model/QaBotConfigModel.class
+com/gdn/database/BugCreationJira.class
